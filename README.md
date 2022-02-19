@@ -1,5 +1,5 @@
 # lgf-todo
-
+>vue3 + ts + ant-design-vue
 ## Project setup
 ```
 npm install
